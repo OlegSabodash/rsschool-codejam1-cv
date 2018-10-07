@@ -1,0 +1,162 @@
+
+
+.backMain {
+    width: 100%;
+    max-width: 1024px;
+    height: 2230px;
+    background: rgba(187, 189, 188, 0.301);
+    margin: 0px auto;
+}
+
+.left {
+    width: 40%;
+    /* border: solid 1px black; */
+    float: left;
+margin: 10px 10px;  
+}
+
+.right {
+    width: 50%;
+    /* border: solid 1px black; */
+    float: right;
+    margin: 10px 10px;
+    padding: 10px 10px; 
+    background: white;
+}
+
+.photo img{
+    margin-left: 100px;
+    align-content: center;
+    width: 200px;
+    border-radius: 100px;
+
+}
+
+.nameSurname {
+    text-align: center;
+    padding: 50px 0px; 
+}
+
+.addInf {
+    border-top:   rgba(220, 221, 224, 0.301) solid 5px;
+}
+
+.addInf p {
+    display: inline-block;
+    padding: 0px 30px;
+}
+
+.target {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 250px; 
+}
+
+.targetInf {
+    margin-left: 30px; 
+    margin-top: 50px;
+    font: 12pt sans-serif; 
+}
+
+
+.skills {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 230px; 
+}
+
+
+.skillsInf {
+    margin-top: 100px;
+    font: 12pt sans-serif;
+}
+
+.code {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 100px; 
+}
+
+
+.codeInf {
+   margin-left: 30px; 
+    margin-top: 70px;
+    font: 12pt sans-serif;
+    
+   
+}
+li {
+    color: orange;
+}
+li span{
+    color: black;
+}
+
+
+.experience {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 260px; 
+}
+
+.experienceInf {
+    margin-top: 70px;
+    font: 12pt sans-serif;
+}
+
+
+.education {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 400px; 
+}
+
+.educationInf {
+    margin-top: 70px;
+    font: 12pt sans-serif;
+}
+
+.educationInf img {
+    border-radius: 100px;
+}
+
+.english {
+    width: 100px;
+    height: 100px;
+    border-radius: 50px;
+    background: rgba(10, 126, 97, 0.267);
+    text-align: center;
+    line-height: 100px;  
+    margin-left: 150px; 
+    margin-top: 160px; 
+}
+
+.englishInf {
+    margin-top: 60px;
+    font: 12pt sans-serif;
+}
